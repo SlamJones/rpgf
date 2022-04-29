@@ -1,5 +1,5 @@
 # rpgf
-Simple practice project, old-school text-based RPG.  Current features are limited.
+Simple practice project, old-school text-based RPG.  Current features as follows:
 
 Features:
 - Can create characters and equip them with randomizeed gear
